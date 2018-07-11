@@ -3,8 +3,11 @@ This code segments out the drivable portion of the road from the surrounding wit
 
 Installations required:
 1.Numpy library
+
 2.OpenCV library(cv2)
+
 3.Matplotlib library
+
 4.Python 3.6
 
 Now road-lane detection techniques exists but they do not work for Indian-roads due to the fading of lanes and unsmooth road surfaces.
@@ -15,11 +18,13 @@ Now, we can deal with pixel values in 2 different ways- OpenCV library for image
 Output images of particular frames of 2 videos are here below:
 
 Frame 1:
+
 ![1](https://github.com/shahjui2000/Drive-able-Road-Detection/blob/master/frame1.PNG)
 
 
 
 Frame 2:
+
 ![2](https://github.com/shahjui2000/Drive-able-Road-Detection/blob/master/frame2.PNG)
 
 
