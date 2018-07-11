@@ -2,6 +2,7 @@
 This code segments out the drivable portion of the road from the surrounding with the help of inbuilt open-CV library.
 
 Installations required:
+
 1.Numpy library
 
 2.OpenCV library(cv2)
@@ -30,3 +31,4 @@ Frame 2:
 
 
 Since, the output shows great acuracy , using openCV for segmentation becomes a better way since, Neural Networks come with a lot of computations and costs.
+
